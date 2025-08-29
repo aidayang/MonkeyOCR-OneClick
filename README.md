@@ -1,6 +1,8 @@
 # MonkeyOCR-OneClick
 MonkeyOCR:PDF/图片转Markdown格式软件免安装部署一键启动整合包
 
+2025-08-28更新到最新版
+
 ![](https://raw.githubusercontent.com/aidayang/MonkeyOCR-OneClick/refs/heads/main/mocr.webp)
 
 ## MonkeyOCR整合包使用说明
